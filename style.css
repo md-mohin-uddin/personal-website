@@ -77,8 +77,6 @@ section{
 }
 .project-work img{
     width: 100%;
-    
-    
 }
 
 .inquiry-banner{
@@ -92,6 +90,7 @@ section{
 }
 .work-inquiry{
     width: 80%;
+    height: 200px;
 }
 .working{
     width: 40%;
@@ -106,4 +105,21 @@ section{
     margin-top: 115px;
   
 }
-
+footer{
+    margin-top: 0;
+    text-align: center;
+}
+footer img{
+    
+    width: 38px;
+    height: 38px;
+    text-align: center;
+    padding: 10px;
+}
+footer h2{
+    font-size: 35px;
+    line-height: .5;
+}
+footer h3{
+    font-size: 38px;
+}
