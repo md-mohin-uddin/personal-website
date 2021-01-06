@@ -103,7 +103,34 @@ section{
     float: right;
     text-align: center;
     margin-top: 115px;
-  
+
+}
+.skill{
+    width: 30%;
+    float: left;
+    text-align: center;
+    padding: 10px;
+    margin: 10px;
+    background-color: burlywood;
+    box-shadow: 10px 10px 30px gray;
+    border: 2px solid rgb(90, 86, 94);
+    border-radius: 10px;
+}
+.skill p{
+    font-size: 20px;
+}
+.my-skill{
+    margin-bottom: 70px;
+    height: 700px;
+    background-color: honeydew;
+    padding-top: 50px;
+}
+.my-skill h1{
+    text-align: center;
+}
+.skill img{
+    width: 150px;
+    height: 150px;
 }
 footer{
     margin-top: 0;
@@ -119,6 +146,7 @@ footer img{
 footer h2{
     font-size: 35px;
     line-height: .5;
+    margin-top: 30px;
 }
 footer h3{
     font-size: 38px;
