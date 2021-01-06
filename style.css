@@ -92,13 +92,13 @@ section{
     width: 80%;
     height: 200px;
 }
-.working{
+#working{
     width: 40%;
     float: left;
     text-align: center;
     margin-top: 50px;
 }
-.chat{
+#chat{
     width: 40%;
     float: right;
     text-align: center;
@@ -109,12 +109,15 @@ section{
     width: 30%;
     float: left;
     text-align: center;
-    padding: 10px;
-    margin: 10px;
+    padding:0 10px;
+    margin:0 10px;
     background-color: burlywood;
     
     border: 2px solid rgb(64, 60, 68);
     border-radius: 5px;
+}
+.skill h2{
+    line-height: 0;
 }
 .skill p{
     font-size: 20px;
@@ -131,6 +134,7 @@ section{
 .skill img{
     width: 150px;
     height: 150px;
+    margin: 0;
 }
 footer{
     margin-top: 0;
