@@ -112,9 +112,9 @@ section{
     padding: 10px;
     margin: 10px;
     background-color: burlywood;
-    box-shadow: 10px 10px 30px gray;
-    border: 2px solid rgb(90, 86, 94);
-    border-radius: 10px;
+    
+    border: 2px solid rgb(64, 60, 68);
+    border-radius: 5px;
 }
 .skill p{
     font-size: 20px;
@@ -146,7 +146,7 @@ footer img{
 footer h2{
     font-size: 35px;
     line-height: .5;
-    margin-top: 30px;
+    margin-top: 50px;
 }
 footer h3{
     font-size: 38px;
