@@ -1,0 +1,109 @@
+body{
+    margin: 0;
+    
+}
+.half-width{
+    width: 40%;
+    float: left;
+    margin: 2%;
+    padding: 2%;
+    height: 350px;
+   
+}
+.half-width img{
+    width: 100%;
+}
+h1{
+    font-size: 70px;
+    font-family: 'Bebas Neue', cursive;
+    color: #363958;
+    line-height: .5;
+}
+h2{
+    font-size: 50px;
+    font-family: 'Bebas Neue', cursive;
+   
+}
+h3{
+    font-size: 25px;
+    color: indigo;
+}
+p{
+    font-size: 20px;
+    color: darkslategray;
+    margin-bottom: 50px ;
+}
+.name-highlight{
+    color: rgb(29, 118, 252);
+}
+.button-link{
+    text-decoration: none;
+    background-color: aqua;
+    border-image: linear-gredient(10px 10px 40px);
+    padding: 20px 30px;
+    border-radius: 10px;
+    font-weight: 700;
+    color: white;
+    margin-top: 10px;
+    font-size: 18px;
+}
+section{
+    width: 90%;
+    margin: auto;
+    height: 500px;
+    margin-bottom: 150px;
+}
+.project-area{
+    background-color: rgb(235, 234, 234);
+    height: 650px;
+    padding-bottom: 50px;
+
+
+}
+.project-work{
+    width: 25%;
+    float: left;
+    margin: 30px;
+    padding: 25px;
+    background-color: white;
+    border-radius: 10px;
+    box-shadow: 10px 10px 40px gray;
+    padding-bottom: 20px;
+}
+#work{
+    text-align: center;
+    padding-top: 50px;
+    font-family: 'Bebas Neue', cursive;
+}
+.project-work img{
+    width: 100%;
+    
+    
+}
+
+.inquiry-banner{
+    background-image: url("images/Group_33094_1.png");
+    background-position: center;
+    background-size: 100% 100%;
+    background-repeat: no-repeat;
+    margin: 0 10%;
+    height: 250px;
+    
+}
+.work-inquiry{
+    width: 80%;
+}
+.working{
+    width: 40%;
+    float: left;
+    text-align: center;
+    margin-top: 50px;
+}
+.chat{
+    width: 40%;
+    float: right;
+    text-align: center;
+    margin-top: 115px;
+  
+}
+
